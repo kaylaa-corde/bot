@@ -22,7 +22,7 @@ global.Api = new (require('./neoxrApi'))(process.env.API_KEY)
 global.chatai_bid = '164728'
 global.chatai_key = 'MKPsfkgXLZPGrWoH'
 // Bot version
-global.version = '2.2.1',
+global.version = '18.10.0',
 // Bot name
 global.botname = `© KayyBotz v${global.version} (Public Bot)`
 // Footer text
